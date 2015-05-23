@@ -26,7 +26,9 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'faker',                '1.4.2'
 gem 'will_paginate',           '3.0.7'
 gem 'bootstrap-will_paginate', '0.0.10'
-
+gem 'carrierwave',             '0.10.0'
+gem 'mini_magick',             '3.8.0'
+gem 'fog',                     '1.23.0'	
 # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
 
 
